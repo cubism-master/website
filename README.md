@@ -1,4 +1,4 @@
-https://www.ovation.network/cubism_master
+www.ovation.network/cubism_master (on)
 
 orb.club/@cubism_master (off)
 
